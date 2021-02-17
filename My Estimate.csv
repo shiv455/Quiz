@@ -1,0 +1,9 @@
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,Asia Pacific (Singapore),,Amazon DocumentDB (with MongoDB compatibility),0,93.32,1119.84,USD,"( 1 instances of type db t3.medium ), Storage (50 GB), I/Os (1)"
+My Estimate,Asia Pacific (Singapore),,Amazon EC2,0,143.98,1727.76,USD,"Operating system (Windows Server), Quantity (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (t3a.xlarge)"
+My Estimate,Asia Pacific (Singapore),,Amazon EC2,0,193.32999999999998,2319.96,USD,"Operating system (Windows Server with SQL Server Web), Quantity (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (t3a.xlarge)"
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
