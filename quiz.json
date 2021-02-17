@@ -1,0 +1,53 @@
+{
+  "School Info": {
+    "ID":"123",
+    "Name": "abc"
+    
+  },
+  "Class Info": {
+    "ID":"123",
+    "Name": "abc"
+    
+  },
+   "Department Info": {
+    "ID":"123",
+    "Name": "abc"
+  
+  },
+  "Student Info": {
+    "ID":"123",
+    "Name": "abc"
+  },
+  "Teacher Info": {
+    "ID":"123",
+    "Name": "abc"
+  },
+  
+  "Questions And Answer":[{
+    
+    "Question1":"123",
+    "Options":[{
+      "Option1":"aaa",
+      "Option2":"bbb",
+      "Option3":"CCC",
+      "Option4":"ddd"
+    } ],
+    "Answer":{
+      "Option ID": "Option1"
+    }
+    },
+    {
+    "Question2":"123",
+    "Options":[{
+      "Option1":"aaa",
+      "Option2":"bbb",
+      "Option3":"CCC",
+      "Option4":"ddd"
+    } ],
+    "Answer":{
+      "Option ID": "Option1"
+    }
+    
+  }]
+
+}
