@@ -1,0 +1,71 @@
+{
+   "School Info": {
+    "ID": "123",
+    "Name": "abc"
+  },
+   "Class Info": {
+    "ID": "123",
+    "Name": "abc"
+  },
+  "Teacher Info": {
+    "ID": "123",
+    "Name": "abc",
+    "Status":"Active",
+    "Access Level":
+  {
+      "CanCreate":"True",
+      "CanDelete":"True",
+      "CanUpdate":"True",
+      "CanAssign":"True"
+    }
+  },
+  
+  "Quiz":{
+    "Batch":"1",
+    "Assigned Students":[
+      {
+      "id":"123",
+      "Name":"stud1"
+      },
+       {
+      "id":"123",
+      "Name":"stud2"
+      }
+      
+      ]
+  },
+  "Subject":"English",
+  "Catagories":"Catagories/SubCatagories",
+  "Questions And Answer": [
+    {
+      "Question1": "123",
+      "Options": [
+        {
+          "Option1": "aaa",
+          "Option2": "bbb",
+          "Option3": "CCC",
+          "Option4": "ddd"
+        }
+      ],
+      "Answer": {
+        "Option ID": "Option1"
+      }
+    },
+    {
+      "Question2": "123",
+      "Options": [
+        {
+          "Option1": "aaa",
+          "Option2": "bbb",
+          "Option3": "CCC",
+          "Option4": "ddd"
+        }
+      ],
+      "Answer": {
+        "Option ID": "Option1"
+      }
+    }
+  ]
+  
+  }
+  
