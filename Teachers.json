@@ -16,6 +16,7 @@
       "CanCreate":"True",
       "CanDelete":"True",
       "CanUpdate":"True",
+CanApprove":"True",
       "CanAssign":"True"
     }
   },
